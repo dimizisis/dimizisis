@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working in Industry!
+- 🔭 I’m currently working in Accenture, Greece as Software Engineer!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dimizisis/), [Twitter](https://twitter.com/demzisis/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimizisis&show_icons=true&theme=dracula&count_private=true)
